@@ -6,4 +6,4 @@ Documenting my progress in learning Relational Databases and PostgreSQL from scr
 
 ## Sections:
 1. [Basic CRUD & Constraints](./01-Basic-CRUD-and-Constraints/techbazar_inventory.sql)
-2. (Future topics like Joins, Subqueries will go here)
+2. [Table Mutations, String Functions & CASE Statements](./02-Alter-and-Advanced-Functions/techbazar_upgrade.sql)
