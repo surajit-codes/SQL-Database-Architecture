@@ -8,3 +8,4 @@ Documenting my progress in learning Relational Databases and PostgreSQL from scr
 1. [Basic CRUD & Constraints](./01-Basic-CRUD-and-Constraints/techbazar_inventory.sql)
 2. [Table Mutations, String Functions & CASE Statements](./02-Alter-and-Advanced-Functions/techbazar_upgrade.sql)
 3. [Advanced Grouping with CASE](./03-Advanced-Grouping/)
+4. [Conditional Bulk Updates](./04-Conditional-Updates/)
