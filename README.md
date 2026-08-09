@@ -10,3 +10,4 @@ Documenting my progress in learning Relational Databases and PostgreSQL from scr
 3. [Advanced Grouping with CASE](./03-Advanced-Grouping/)
 4. [Conditional Bulk Updates](./04-Conditional-Updates/)
 5. [Stock Audit & HAVING Clause](./05-Audit-and-Having-Clause/)
+6. [Foreign Keys & Referential Integrity](./06-Foreign-Keys-and-Relations/)
