@@ -14,3 +14,4 @@ Documenting my progress in learning Relational Databases and PostgreSQL from scr
 7. [INNER JOIN & Cross-Table Math](./07-Inner-Joins/)
 8. [LEFT JOIN & Anti-Join Pattern](./08-Left-Joins/)
 9. [Subqueries & Dynamic Filtering](./09-Subqueries/)
+10. [CTEs and Modular Joins](./10-CTEs-and-Joins/)
