@@ -15,3 +15,4 @@ Documenting my progress in learning Relational Databases and PostgreSQL from scr
 8. [LEFT JOIN & Anti-Join Pattern](./08-Left-Joins/)
 9. [Subqueries & Dynamic Filtering](./09-Subqueries/)
 10. [CTEs and Modular Joins](./10-CTEs-and-Joins/)
+11. [Window Functions & Ranking](./11-Window-Functions/)

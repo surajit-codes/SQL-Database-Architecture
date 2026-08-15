@@ -1,3 +1,8 @@
+-- ==========================================
+-- DATABASE: TechBazar Inventory
+-- TOPIC: LEFT JOIN & The "Anti-Join" Pattern
+-- ==========================================
+
 -- TECHBAZAAR UNSOLD ITEMS --
 SELECT p.product_name , p.category , s.quantity_sold
 FROM products p

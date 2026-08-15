@@ -1,3 +1,8 @@
+-- ==========================================
+-- DATABASE: TechBazar Inventory
+-- TOPIC: Multi-column ORDER BY, Advanced CASE Grouping, and HAVING clause
+-- ==========================================
+
 -- UPDATE THE RATING OF PRODUCTS --
 update  products 
 set rating = 4.9

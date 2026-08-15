@@ -1,3 +1,8 @@
+-- ==========================================
+-- DATABASE: TechBazar Inventory
+-- TOPIC: Common Table Expressions (CTE) with JOINs
+-- ==========================================
+
 -- METHOD I --
 WITH product_sales AS (
 	SELECT product_id,

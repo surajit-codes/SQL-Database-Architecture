@@ -1,3 +1,8 @@
+-- ==========================================
+-- DATABASE: TechBazar Inventory
+-- TOPIC: INNER JOIN & Cross-Table Calculations
+-- ==========================================
+
 -- SIMPLE SALES REPORT --
 SELECT p.product_name , p.category , s.quantity_sold , s.sale_date , s.sale_id
 FROM products  p INNER JOIN sales s

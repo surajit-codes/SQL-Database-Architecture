@@ -1,3 +1,8 @@
+-- ==========================================
+-- DATABASE: TechBazar Inventory
+-- TOPIC: Foreign Keys & Referential Integrity
+-- ==========================================
+
 -- CREATE SALES TABLE --
 CREATE TABLE sales(
 	sale_id BIGSERIAL PRIMARY KEY,

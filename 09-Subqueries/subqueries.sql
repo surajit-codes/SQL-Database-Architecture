@@ -1,3 +1,8 @@
+-- ==========================================
+-- DATABASE: TechBazar Inventory
+-- TOPIC: Subqueries (Nested Queries)
+-- ==========================================
+
 -- BASIC SUBQUERRY --
 SELECT product_id , product_name , price 
 FROM products WHERE
