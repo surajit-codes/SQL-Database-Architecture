@@ -16,3 +16,4 @@ Documenting my progress in learning Relational Databases and PostgreSQL from scr
 9. [Subqueries & Dynamic Filtering](./09-Subqueries/)
 10. [CTEs and Modular Joins](./10-CTEs-and-Joins/)
 11. [Window Functions & Ranking](./11-Window-Functions/)
+12. [SDE Interview Problems](./12-SDE-Interview-Problems/)
