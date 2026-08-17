@@ -17,3 +17,4 @@ Documenting my progress in learning Relational Databases and PostgreSQL from scr
 10. [CTEs and Modular Joins](./10-CTEs-and-Joins/)
 11. [Window Functions & Ranking](./11-Window-Functions/)
 12. [SDE Interview Problems](./12-SDE-Interview-Problems/)
+13. [Self Joins & Hierarchies](./13-Self-Joins/)
