@@ -7,3 +7,6 @@
 
 ## Key Takeaway
 Self joins initially hurt the brain, but it's just pretending there are two identical tables side-by-side. You connect the foreign key (`manager_id`) of the first imaginary table to the primary key (`emp_id`) of the second imaginary table.
+
+## LeetCode 181 Solved
+Successfully applied the Self Join concept to solve the classic "Employees earning more than their managers" problem. It proves how treating a single table as two separate entities allows for direct mathematical comparisons between a parent and child row.
